@@ -1,6 +1,20 @@
 .flex-grid{
 
-    
+   display: flex;
+   justify-content: space-between;
 
+}
+
+
+.flex-grid .col{
+
+    width: 16%;
+    height: auto;
+
+}
+
+.col{
+
+    background: #4A4A;
 
 }
